@@ -4,10 +4,10 @@ actors
 
 characters
   - belong to show
-  - belong to actor 
+  - belong to actor
 
 networks
-  - 
+  -
 
 shows
   - have many characters
