@@ -1,0 +1,14 @@
+actors
+  - have many characters
+  - have many shows (through characters)
+
+characters
+  - belong to show
+  - belong to actor 
+
+networks
+  - 
+
+shows
+  - have many characters
+  - have many actors (through characters)
